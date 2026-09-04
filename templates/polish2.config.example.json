@@ -1,0 +1,358 @@
+{
+ "23605": {
+  "demote": [
+   "Crypto Consultant Companies at a Glance",
+   "Disclosure"
+  ],
+  "edits": [
+   {
+    "old": "most published lists of crypto consultant companies lists in this category rank them against each other",
+    "new": "most published lists of crypto consultant companies rank them against each other",
+    "label": "fix \"lists ... lists\" duplication in P1"
+   },
+   {
+    "old": "three are technical consultancies that can also build",
+    "new": "three are <a href=\"https://theblockopedia.com/top-web3-consulting-companies/\">technical consultancies</a> that can also build",
+    "label": "internal link in P1"
+   }
+  ],
+  "subs": [
+   {
+    "old": "the ten firms",
+    "new": "the ten crypto consultant companies",
+    "n": 2
+   },
+   {
+    "old": "these firms",
+    "new": "these crypto consultant companies",
+    "n": 1
+   },
+   {
+    "old": "firms here",
+    "new": "crypto consultant companies here",
+    "n": 1
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the crypto consultant companies here",
+    "n": 1
+   }
+  ]
+ },
+ "24300": {
+  "demote": [
+   "Crypto Exchange Listing Services at a Glance",
+   "Disclosure"
+  ],
+  "edits": [
+   {
+    "old": "It is the stated position of the largest exchange in the market.",
+    "new": "It is the stated position of the largest exchange in the market. What legitimate crypto exchange listing services sell is readiness work - the <a href=\"https://theblockopedia.com/smart-contracts-audit-companies/\">token contract audit</a>, the liquidity plan, the compliance file - and that is a different purchase.",
+    "label": "internal link + keyword in P1"
+   },
+   {
+    "old": "These seven are ordered by what they actually do",
+    "new": "These seven crypto exchange listing services are ordered by what they actually do",
+    "label": "keyword in list intro"
+   },
+   {
+    "old": "Note what is deliberately absent from this table: any column claiming tier access.",
+    "new": "Note what is deliberately absent from this table of crypto exchange listing services: any column claiming tier access.",
+    "label": "keyword in glance note"
+   }
+  ],
+  "subs": [
+   {
+    "old": "these firms",
+    "new": "these crypto exchange listing services",
+    "n": 2
+   },
+   {
+    "old": "the firms in this guide",
+    "new": "the crypto exchange listing services in this guide",
+    "n": 1
+   },
+   {
+    "old": "firms here",
+    "new": "crypto exchange listing services here",
+    "n": 1
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the crypto exchange listing services here",
+    "n": 1
+   }
+  ]
+ },
+ "24334": {
+  "demote": [
+   "Blockchain Development Companies at a Glance"
+  ],
+  "edits": [
+   {
+    "old": "are recommending a product you cannot buy.",
+    "new": "are recommending a product you cannot buy. Buyers who need contract-level work rather than platform integration should start with <a href=\"https://theblockopedia.com/top-crypto-smart-contract-development-companies/\">smart contract development companies</a> instead.",
+    "label": "internal link in P1"
+   },
+   {
+    "old": "These eight can take on work",
+    "new": "These eight blockchain development companies can take on work",
+    "label": "keyword in list intro"
+   },
+   {
+    "old": "Buyers with a narrower brief should go straight to the specialists: <a href=\"https://theblockopedia.com/top-crypto-smart-contract-development-companies/\">smart contract development companies</a> for contracts, <a href=\"https://theblockopedia.com/best-web3-development-companies/\">Web3 development companies</a> for full applications, and <a href=\"https://theblockopedia.com/cryptocurrency-wallet-development-companies/\">cryptocurrency wallet development companies</a> for custody and wallet work.</p>\n<!-- /wp:paragraph -->",
+    "new": "Buyers with a narrower brief should go straight to the specialists.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><a href=\"https://theblockopedia.com/top-crypto-smart-contract-development-companies/\">Smart contract development companies</a> - where the deliverable is the contract itself.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><a href=\"https://theblockopedia.com/best-web3-development-companies/\">Web3 development companies</a> - where the contract is one part of a full application.</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li><a href=\"https://theblockopedia.com/cryptocurrency-wallet-development-companies/\">Cryptocurrency wallet development companies</a> - where custody and key handling are the hard part.</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->",
+    "label": "split 3-link paragraph into a list"
+   }
+  ],
+  "subs": [
+   {
+    "old": "firms here",
+    "new": "blockchain development companies here",
+    "n": 2
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the blockchain development companies here",
+    "n": 1
+   }
+  ]
+ },
+ "5074": {
+  "demote": [
+   "Web3 Development Companies at a Glance"
+  ],
+  "edits": [
+   {
+    "old": "is presented alongside companies fifteen times its size.",
+    "new": "is presented alongside companies fifteen times its size. The same inflation shows up in the adjacent category of <a href=\"https://theblockopedia.com/top-blockchain-development-companies/\">blockchain development companies</a>.",
+    "label": "internal link in P1"
+   }
+  ],
+  "subs": [
+   {
+    "old": "firms here",
+    "new": "Web3 development companies here",
+    "n": 2
+   },
+   {
+    "old": "the firms in this guide",
+    "new": "the Web3 development companies in this guide",
+    "n": 1
+   },
+   {
+    "old": "these firms",
+    "new": "these Web3 development companies",
+    "n": 1
+   },
+   {
+    "old": "the ten firms",
+    "new": "the ten Web3 development companies",
+    "n": 1
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the Web3 development companies here",
+    "n": 1
+   }
+  ]
+ },
+ "5094": {
+  "demote": [
+   "NFT Development Companies at a Glance"
+  ],
+  "edits": [
+   {
+    "old": "It is infrastructure demand - gaming assets, tokenized real estate, ticketing, loyalty -",
+    "new": "It is infrastructure demand - <a href=\"https://theblockopedia.com/best-nft-game-development-companies/\">gaming assets</a>, tokenized real estate, ticketing, loyalty -",
+    "label": "internal link in P1"
+   },
+   {
+    "old": "Every figure in the tables below - founding year",
+    "new": "Every figure in the tables below for these NFT development companies - founding year",
+    "label": "keyword in list intro"
+   },
+   {
+    "old": "Two patterns are worth reading off this table.",
+    "new": "Two patterns are worth reading off this table of NFT development companies.",
+    "label": "keyword in glance note"
+   },
+   {
+    "old": "and the shift to optional royalties followed. Marketplaces then built tooling",
+    "new": "and the shift to optional royalties followed.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Marketplaces then built tooling",
+    "label": "split royalty paragraph (1/2)"
+   },
+   {
+    "old": "Enforcement is possible, but it depends on the standard your collection is minted under. There is a trade-off:",
+    "new": "Enforcement is possible, but it depends on the standard your collection is minted under.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>There is a trade-off:",
+    "label": "split royalty paragraph (2/2)"
+   }
+  ],
+  "subs": [
+   {
+    "old": "firms here",
+    "new": "NFT development companies here",
+    "n": 1
+   },
+   {
+    "old": "these firms",
+    "new": "these NFT development companies",
+    "n": 1
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the NFT development companies here",
+    "n": 1
+   }
+  ]
+ },
+ "5416": {
+  "demote": [
+   "Cryptocurrency Wallet Development Companies at a Glance"
+  ],
+  "edits": [
+   {
+    "old": "DeFi positions, NFT holdings, staking rewards, cross-chain swaps.",
+    "new": "DeFi positions, <a href=\"https://theblockopedia.com/top-nft-wallet-development-companies/\">NFT holdings</a>, staking rewards, cross-chain swaps.",
+    "label": "internal link in P1"
+   },
+   {
+    "old": "Each profile below carries the same structure",
+    "new": "Each of these cryptocurrency wallet development companies is profiled with the same structure",
+    "label": "keyword in list intro"
+   }
+  ],
+  "subs": [
+   {
+    "old": "firms here",
+    "new": "cryptocurrency wallet development companies here",
+    "n": 2
+   },
+   {
+    "old": "these firms",
+    "new": "these cryptocurrency wallet development companies",
+    "n": 1
+   },
+   {
+    "old": "the ten firms",
+    "new": "the ten cryptocurrency wallet development companies",
+    "n": 1
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the cryptocurrency wallet development companies here",
+    "n": 1
+   }
+  ]
+ },
+ "5418": {
+  "demote": [
+   "NFT Wallet Development Companies at a Glance"
+  ],
+  "edits": [
+   {
+    "old": "An NFT wallet is not a crypto wallet with a picture gallery bolted on",
+    "new": "An NFT wallet is not a <a href=\"https://theblockopedia.com/cryptocurrency-wallet-development-companies/\">crypto wallet</a> with a picture gallery bolted on",
+    "label": "internal link in P1"
+   },
+   {
+    "old": "Four are firms you can commission.",
+    "new": "Four of these NFT wallet development companies are firms you can commission.",
+    "label": "keyword in list intro"
+   },
+   {
+    "old": "The instructive comparison is Softwire against Labrys:",
+    "new": "Among these NFT wallet development companies the instructive comparison is Softwire against Labrys:",
+    "label": "keyword in glance note"
+   }
+  ],
+  "subs": [
+   {
+    "old": "firms here",
+    "new": "NFT wallet development companies here",
+    "n": 2
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the NFT wallet development companies here",
+    "n": 1
+   }
+  ]
+ },
+ "9571": {
+  "demote": [
+   "NFT Game Development Companies at a Glance",
+   "The Sentiment Problem You Are Buying Into",
+   "The Unit Economics Nobody Quotes You"
+  ],
+  "edits": [
+   {
+    "label": "restructure P1: claim + internal link first, market evidence second",
+    "old": "<p>Be careful with the market numbers in this category, because they are close to meaningless. For 2026, <a href=\"https://www.fortunebusinessinsights.com/nft-gaming-market-111345\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Fortune Business Insights</a> sizes NFT gaming at <strong>$7.63 billion</strong> growing to $45.88 billion by 2034, while <a href=\"https://www.mordorintelligence.com/industry-reports/global-nft-gaming-market\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Mordor Intelligence</a> puts the same year at <strong>$620 billion</strong> heading to $1.21 trillion by 2031. That is a gap of roughly eighty times for the same market in the same year, because one is counting blockchain-game revenue and the other is counting addressable gaming spend. Any guide quoting a single trillion-dollar figure as settled fact is not reading its own source.</p>",
+    "new": "<p>Be careful with the market numbers in this category, because they are close to meaningless. Judge NFT game development companies on shipped titles and verified team size instead, and note that a studio needing the token and marketplace contracts written will also need <a href=\"https://theblockopedia.com/top-crypto-smart-contract-development-companies/\">smart contract development companies</a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The size of the disagreement is the point. For 2026, <a href=\"https://www.fortunebusinessinsights.com/nft-gaming-market-111345\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Fortune Business Insights</a> sizes NFT gaming at <strong>$7.63 billion</strong> growing to $45.88 billion by 2034, while <a href=\"https://www.mordorintelligence.com/industry-reports/global-nft-gaming-market\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Mordor Intelligence</a> puts the same year at <strong>$620 billion</strong> heading to $1.21 trillion by 2031. That is a gap of roughly eighty times for the same market in the same year, because one is counting blockchain-game revenue and the other is counting addressable gaming spend. Any guide quoting a single trillion-dollar figure as settled fact is not reading its own source.</p>"
+   },
+   {
+    "old": "Every figure in the tables below comes from the studio's Clutch directory profile",
+    "new": "Every figure in the tables below for these NFT game development companies comes from the studio's Clutch directory profile",
+    "label": "keyword in list intro"
+   },
+   {
+    "old": "Two things stand out.",
+    "new": "Two things stand out across these NFT game development companies.",
+    "label": "keyword in glance note"
+   }
+  ],
+  "subs": [
+   {
+    "old": "these studios",
+    "new": "these NFT game development companies",
+    "n": 2
+   },
+   {
+    "old": "firms here",
+    "new": "NFT game development companies here",
+    "n": 1
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the NFT game development companies here",
+    "n": 1
+   }
+  ]
+ },
+ "9724": {
+  "demote": [
+   "DeFi Smart Contract Development Companies at a Glance",
+   "Private Audit or Audit Contest?"
+  ],
+  "edits": [
+   {
+    "old": "They are design errors, and no amount of test coverage finds them.",
+    "new": "They are design errors, and no amount of test coverage finds them. That gap is the difference between hiring general <a href=\"https://theblockopedia.com/top-crypto-smart-contract-development-companies/\">smart contract development companies</a> and hiring a DeFi specialist.",
+    "label": "internal link in P1"
+   },
+   {
+    "old": "Four build partners and one security specialist.",
+    "new": "Four build partners and one security specialist make up the DeFi smart contract development companies below.",
+    "label": "keyword in list intro"
+   },
+   {
+    "old": "The pattern to notice is inverse:",
+    "new": "The pattern to notice across these DeFi smart contract development companies is inverse:",
+    "label": "keyword in glance note"
+   }
+  ],
+  "subs": [
+   {
+    "old": "firms here",
+    "new": "DeFi smart contract development companies here",
+    "n": 2
+   },
+   {
+    "old": "Every firm here",
+    "new": "Every one of the DeFi smart contract development companies here",
+    "n": 1
+   }
+  ]
+ }
+}
