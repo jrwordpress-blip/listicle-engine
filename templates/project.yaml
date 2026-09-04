@@ -1,0 +1,43 @@
+# project.yaml — theblockopedia.com
+# Per-website config for the SEO blog engine. Secrets live in .env, never here.
+
+site:
+  name: "The Blockopedia"
+  url: "https://theblockopedia.com"
+  locale: "en-US"                     # US-facing buyer intent; author account is India-based
+  root_slugs: true                    # live URLs are /slug/ with no /blog/ prefix
+
+cms:
+  type: "wordpress"
+  api_base: "https://theblockopedia.com/wp-json/wp/v2"
+  default_status: "draft"
+  fields:
+    title: "title"
+    slug: "slug"
+    body_html: "content"
+    excerpt: "excerpt"
+    seo_title: "meta.rank_math_title"
+    seo_description: "meta.rank_math_description"
+    published_date: "date"
+  seo_plugin: "rankmath"
+
+authors:
+  "The Blockopedia": TODO_wp_user_id   # confirm id; live post 5416 byline is "Cherokee Balfour"
+
+categories:
+  - "Crypto"
+
+publishing:
+  cadence_new: []                      # this engagement is a REWRITE program, not new posts
+  cadence_update: ["Mon", "Tue", "Wed", "Thu", "Fri"]
+  time: "10:00"
+  timezone: "Asia/Kolkata"
+
+seo:
+  gsc_property: "https://theblockopedia.com/"
+  primary_market: "United States"
+
+gates:
+  factcheck_required_for: ["financial", "vendor-claims", "pricing"]
+  human_review_owner: "Aman"
+  publish_owner: "Aman"
